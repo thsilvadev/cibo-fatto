@@ -1,0 +1,23 @@
+.container{
+    background-color: tomato;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.col{
+    display: flex;
+    flex-direction: column;
+}
+
+.text-center{
+    text-align: center;
+}
+
+div#texto p{
+    padding-top: 10px;
+}
