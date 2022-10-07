@@ -1,5 +1,5 @@
 .container{
-    background-color: tomato;
+    background-color: rgb(221, 247, 226);
     margin-top: 0px;
     padding: 0px;
 }
@@ -20,4 +20,29 @@
 
 div#texto p{
     padding-top: 10px;
+}
+
+body{
+    background-color: rgb(221, 247, 226);
+}
+
+.navbar-custom{
+    background-color: #e73c2f;
+}
+
+p{
+    color: whitesmoke;
+    font-family: 'Roboto';
+}
+
+.rodape{
+    background-color: rgb(35, 43, 39);
+}
+
+section#rodape h2{
+    font-family: 'Lobster', cursive;
+}
+
+.bordinha{
+    border-radius: 4px;
 }
