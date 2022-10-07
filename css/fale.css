@@ -8,8 +8,8 @@
 
 div#formulario{
     margin: 0 auto;
-    width: 600px;
-    height: auto;
+    max-width: 600px;
+    height: 100%;
     text-align: center;
     color:rgb(49, 49, 49);
     background-color:#fcb040;

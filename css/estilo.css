@@ -43,6 +43,10 @@ section#rodape h2{
     font-family: 'Lobster', cursive;
 }
 
+#rodape h3{
+    padding-top: 10px;
+}
+
 .bordinha{
     border-radius: 4px;
 }
